@@ -37,7 +37,7 @@ After training, the model achieved an accuracy of **98%** on the test dataset, d
 
 ## Download the Model
 You can download the trained model directly from this repository and use it for your own face recognition antispoofing tasks:
-- [Download Model](./path/to/your/model)
+- [Download Model](Model)
 
 ## Conclusion
 This project successfully builds an antispoofing deep learning model based on VGG16 with 98% accuracy. It is capable of detecting real(Liveness) and fake faces, contributing to more secure facial recognition systems.
